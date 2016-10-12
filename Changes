@@ -1,5 +1,11 @@
 Revision history for App-DisplayResolutionUtils
 
+0.003   2016-10-12 (PERLANCAR)
+
+	- list-display-resolution-names(): Allow filtering by query
+	  argument.
+
+
 0.002   2016-10-09 (PERLANCAR)
 
         - No functional changes.
