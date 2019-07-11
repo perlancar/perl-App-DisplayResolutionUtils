@@ -1,10 +1,10 @@
-0.003   2016-10-12 (PERLANCAR)
+0.003   2016-10-12  Released-By: PERLANCAR
 
 	- list-display-resolution-names(): Allow filtering by query
 	  argument.
 
 
-0.002   2016-10-09 (PERLANCAR)
+0.002   2016-10-09  Released-By: PERLANCAR
 
         - No functional changes.
 
@@ -12,6 +12,6 @@
           dependencies to Sah-schema-related dependencies.
 
 
-0.001   2016-10-07 (PERLANCAR)
+0.001   2016-10-07  Released-By: PERLANCAR
 
         - First release.
